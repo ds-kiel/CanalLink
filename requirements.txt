@@ -1,0 +1,8 @@
+pip
+pandas
+matplotlib
+ipykernel
+ipywidgets
+pyarrow
+seaborn
+folium
