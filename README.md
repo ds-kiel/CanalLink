@@ -2,7 +2,7 @@
 
 Welcome to the CanalLink GitHub repository! 
 
-The paper is under submission at TBA.
+The paper is accepted at the 4th IEEE LCN Special Track on Maritime Communication and Security: [MarCaS 2026](https://garykessler.net/lcn_marcas).
 
 This project is licensed under the terms of the Creative Commons Attribution 4.0 International License.
 
